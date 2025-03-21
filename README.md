@@ -1,2 +1,2 @@
 # hse_fqw
-Repo is for HSE FQW.
+The repo is for HSE FQW.

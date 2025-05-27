@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/a3ba287a-b92c-4c3e-8d7e-28cfca6fa15f)
 # Master's Thesis: Session-Based Fraud Detection Using Machine Learning
-#### Ilya Starkov's Final Qualification Work 
+#### Ilya Starkov | Final Qualification Work 
 #### National Research University Higher School of Economics | MDS. Fall 2023 | 2025
 
 ## About
